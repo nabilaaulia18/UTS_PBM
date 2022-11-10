@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Candi Borobudur",
+        "price": "Rp.100.000",
+        "rating": "4.7",
+        "description": "Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.",
+        "thumbnail": "https://asset.kompas.com/crops/PREP49IjcIsLm5BEFNlETeDO8PE=/0x118:1430x1071/750x500/data/photo/2022/03/07/6225c0669e6d2.jpg"
+    },
+    {
+        "title": "Raja Ampat",
+        "price": "Rp.850.000",
+        "rating": "4.4",
+        "description": "Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang berdekatan dan berlokasi di barat bagian Kepala Burung Pulau Papua. Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi Papua Barat.",
+        "thumbnail": "https://awsimages.detik.net.id/community/media/visual/2019/02/28/e27d496c-d76b-4415-8cc3-d1131c07215f_169.jpeg?w=1200"
+    },
+    {
+        "title": "Lombok",
+        "price": "Rp.750.000",
+        "rating": "4.5",
+        "description": "Pulau Lombok adalah sebuah pulau di kepulauan Sunda Kecil atau Nusa Tenggara yang terpisahkan oleh Selat Lombok dari Bali di sebelah barat dan Selat Alas di sebelah timur dari Sumbawa.",
+        "thumbnail": "https://blog.antavaya.com/wp-content/uploads/2020/03/Destinasi-Wisata-Lombok-Paling-Populer-Tahun-2020-Sumber-Instagram-kezyayoanas_.jpg"
+    },
+    {
+        "title": "Teluk Cenderawasih",
+        "price": "Rp.500.000",
+        "rating": "4.3",
+        "description": "Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut terluas di Indonesia, terdiri dari daratan dan pesisir pantai, daratan pulau-pulau, terumbu karang, dan perairan lautan. Taman nasional ini terletak di Teluk Cenderawasih, Provinsi Papua Barat.",
+        "thumbnail": "https://ik.imagekit.io/tvlk/blog/2020/03/Taman-Nasional-Teluk-Cendrawasih-NativeIndonesia.jpg"
+    },
+    {
+        "title": "Menara Kembar Petronas",
+        "price": "Rp.300.000",
+        "rating": "4.7",
+        "description": "Menara Petronas atau Menara Kembar Petronas di Kuala Lumpur, Malaysia adalah sepasang menara kembar yang pernah menjadi bangunan tertinggi di dunia pada tahun 1998—2004, sebelum dilampaui oleh Burj Khalifa dan Taipei 101.",
+        "thumbnail": "https://cdn.idntimes.com/content-images/community/2020/02/petronis-towers-igs-magazine-opinion-10-41b8c2db5e461f1903d2824bf6109e8f_600x400.jpg"
+    },
+    {
+        "title": "Gunung Pilatus",
+        "price": "Rp.100.000",
+        "rating": "4.8",
+        "description": "Taman Nasional Teluk Cenderawasih merupakan taman nasional perairan laut terluas di Indonesia, terdiri dari daratan dan pesisir pantai, daratan pulau-pulau, terumbu karang, dan perairan lautan. Taman nasional ini terletak di Teluk Cenderawasih, Provinsi Papua Barat.",
+        "thumbnail": "https://ik.imagekit.io/tvlk/blog/2021/11/Destinasi-Wisata-Swiss-Gunung-Pilatus-Shutterstock.jpg"
+    },
+    {
+        "title": "Tokyo Tower",
+        "price": "Rp.150.000",
+        "rating": "4.4",
+        "description": "Menara Tokyo adalah sebuah menara di Taman Shiba, Tokyo, Jepang. Tinggi keseluruhan 332,6 m dan merupakan bangunan menara baja tertinggi di dunia yang tegak sendiri di permukaan tanah.",
+        "thumbnail": "https://anekatempatwisata.com/wp-content/uploads/2021/03/Tokyo-Tower-1200x600.jpg"
+    },
+    {
+        "title": "Florawisata SanTer",
+        "price": "Rp.100.000",
+        "rating": "4.8",
+        "description": "Florawisata San Terra de Lafonte Merupakan sebuah taman bunga penuh warna, area bertema budaya, dan wahana anak-anak.",
+        "thumbnail": "https://cdn-2.tstatic.net/travel/foto/bank/images/flora-wisata-san-terra-wisata-baru-di-kota-batu-malang.jpg"
+    },
+    {
+        "title": "Situ Gede Bogor",
+        "price": "Rp.500.000",
+        "rating": "4.8",
+        "description": "Situ gede adalah sebuah kelurahan di kecamatan Bogor Barat, Kota Bogor, Jawa Barat, Indonesia.",
+        "thumbnail": "https://duniakitanews.com/wp-content/uploads/2021/12/IMG_20211207_102528.jpg"
+    },
+    {
+        "title": "Pantai Gigi Hiu",
+        "price": "Rp.100.000",
+        "rating": "4.6",
+        "description": "Pantai terpencil dengan formasi batuan bergerigi & deburan ombak, populer bagi pejalan kaki dan fotografer.",
+        "thumbnail": "https://www.batiqa.com/upload/news/z/lampung-pantai-gigi-hiu_3mnwt.jpg"
+    }
+]

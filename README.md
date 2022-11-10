@@ -1,0 +1,2 @@
+# Tugas UTS Mobile Praktikum
+Link Figma : [https://www.figma.com/file/uGVUjBroGtpavXVRqk8CgM/Travel?node-id=0%3A1&t=6No0ZmvR5EQMf0Xf-0](https://www.figma.com/file/uGVUjBroGtpavXVRqk8CgM/Travel?node-id=0%3A1&t=6No0ZmvR5EQMf0Xf-0)
